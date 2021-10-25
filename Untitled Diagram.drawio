@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T10:19:58.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="Q-tV0lJfVFZq7lxIa3M9" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T10:44:15.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="1Y-espVN5_eGCIgynVQU" version="15.1.4" type="github">
   <diagram id="QUVvCAwXGch43k0VpOjs" name="Page-1">
-    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
         <mxCell id="94RK0DoZ00d1Tz80vGn9-3" value="&lt;div class=&quot;mind-clipboard&quot; style=&quot;line-height: 120%&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="130" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="94RK0DoZ00d1Tz80vGn9-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;S1-A1:&amp;nbsp;&lt;i&gt;It costs $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that&#39;s not just from the&amp;nbsp;&lt;u&gt;rice&lt;/u&gt;.&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- Aspect =&amp;nbsp;&lt;font color=&quot;#7f00ff&quot;&gt;food&lt;/font&gt;, polarity =&amp;nbsp;&lt;font color=&quot;#0d47a1&quot;&gt;neutral&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="94RK0DoZ00d1Tz80vGn9-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;S1-A1:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 8.62733pt ; font-style: italic ; font-weight: bold&quot;&gt;The location and &lt;u&gt;ambience&lt;/u&gt; is just Ok&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8.62733pt ; font-style: italic ; font-weight: bold&quot;&gt;but the food is what makes up for it.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- Aspect =&amp;nbsp;&lt;span style=&quot;color: rgb(255 , 102 , 255) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10.0652pt&quot;&gt;ambience&lt;/span&gt;&lt;span&gt;, polarity =&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#0d47a1&quot;&gt;neutral&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="287" y="137.5" width="273" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="94RK0DoZ00d1Tz80vGn9-5" value="&lt;div class=&quot;mind-clipboard&quot; style=&quot;line-height: 120%&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="130" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="94RK0DoZ00d1Tz80vGn9-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;b&gt;S1-A2: &lt;i&gt;It &lt;u&gt;costs&lt;/u&gt; $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that&#39;s not just from the rice.&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;-&amp;nbsp;Aspect&amp;nbsp;= &lt;font color=&quot;#f57c00&quot;&gt;price&lt;/font&gt;, polarity = &lt;font color=&quot;#f44336&quot;&gt;negative&lt;/font&gt;&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="94RK0DoZ00d1Tz80vGn9-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;b&gt;S1-A2:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 8.62733pt ; font-style: italic ; font-weight: bold&quot;&gt;The location and ambience is just Ok&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8.62733pt ; font-style: italic ; font-weight: bold&quot;&gt;but the &lt;u&gt;food&lt;/u&gt; is what makes up for it.&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;-&amp;nbsp;Aspect&amp;nbsp;=&amp;nbsp;&lt;span style=&quot;font-size: 8.62733pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(102 , 0 , 204)&quot;&gt;food&lt;/span&gt;&lt;span style=&quot;font-size: 8.62733pt ; font-family: &amp;#34;arial&amp;#34;&quot;&gt;, polarity = &lt;/span&gt;&lt;span style=&quot;font-size: 8.62733pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 153 , 0)&quot;&gt;positive&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="597" y="137.5" width="273" height="55" as="geometry" />
         </mxCell>
         <mxCell id="94RK0DoZ00d1Tz80vGn9-7" value="&lt;div class=&quot;mind-clipboard&quot; style=&quot;line-height: 120%&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -68,6 +68,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="733.2599999999998" y="220" as="sourcePoint" />
             <mxPoint x="733.2599999999998" y="199.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvaVnCW54o77c7x1LeFd-21" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZvaVnCW54o77c7x1LeFd-3" target="94RK0DoZ00d1Tz80vGn9-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="320" as="sourcePoint" />
+            <mxPoint x="260" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvaVnCW54o77c7x1LeFd-22" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="94RK0DoZ00d1Tz80vGn9-7" target="94RK0DoZ00d1Tz80vGn9-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="sourcePoint" />
+            <mxPoint x="260" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
